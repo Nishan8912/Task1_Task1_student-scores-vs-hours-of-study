@@ -1,4 +1,4 @@
-# Task1_Task1_student-scores-vs-hours-of-study
+# Task1_student-scores-vs-hours-of-study
 
 
 In this task a simple linear regression model was created to predict the student scores(%) for hours of study per day.
